@@ -18,10 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="functions1.cpp" />
+    <ClCompile Include="UI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="functions1.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F19C9FA4-D202-44FB-B485-C48E0F6985A0}</ProjectGuid>
+    <ProjectGuid>{D402B0DF-5293-43A6-8408-BFDEE9FB23C9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My1_Introduction</RootNamespace>
+    <RootNamespace>Exercises</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

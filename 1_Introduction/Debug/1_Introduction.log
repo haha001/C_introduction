@@ -1,7 +1,1 @@
-﻿  main.cpp
-c:\users\sv\cloudstation\skole\programmering\c\1_introduction\1_introduction\main.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-c:\users\sv\cloudstation\skole\programmering\c\1_introduction\1_introduction\main.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
-  1_Introduction.vcxproj -> C:\Users\sv\CloudStation\Skole\Programmering\C\1_Introduction\Debug\1_Introduction.exe
-  1_Introduction.vcxproj -> C:\Users\sv\CloudStation\Skole\Programmering\C\1_Introduction\Debug\1_Introduction.pdb (Full PDB)
+﻿
